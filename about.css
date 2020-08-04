@@ -1,0 +1,33 @@
+body{
+        
+    background-color: rgb(241, 215, 204);
+       }
+
+     .mm{
+        width: 250px;
+        padding-left: 250px;
+         
+     }
+
+     .ma{
+
+        width: 250px; 
+        height: 249px;
+        padding-left: 300px;
+     }
+
+     .div{
+         padding-top: 90px;
+         
+     }
+
+     .div1{
+
+        background-color: aliceblue;
+     }
+     .h1{
+         text-align: center;
+     }
+     .b{
+         color: purple;
+     }

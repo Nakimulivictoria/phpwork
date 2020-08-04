@@ -1,0 +1,31 @@
+body{
+        
+    background-color: rgb(241, 215, 204);
+       }
+       .ww{
+        width: 20%;
+        float: right;
+        
+      }
+      .tab{
+        padding-left: 250px;
+      
+     }
+     .rt{
+        padding-left: 120px;
+     }
+     .field{
+         background-color: gray;
+         
+     }
+     .ser{
+      float: right;
+      width: 15%;
+      height: 20px;
+      border-radius: 50px;
+      text-align: center;
+     }
+
+   .center{
+      text-align: center;
+   }
